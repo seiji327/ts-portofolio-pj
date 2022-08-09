@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ts-portofolio-pj/static/css/main.56e6221f.css",
+    "main.js": "/ts-portofolio-pj/static/js/main.26c0fdac.js",
+    "index.html": "/ts-portofolio-pj/index.html",
+    "main.56e6221f.css.map": "/ts-portofolio-pj/static/css/main.56e6221f.css.map",
+    "main.26c0fdac.js.map": "/ts-portofolio-pj/static/js/main.26c0fdac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.26c0fdac.js"
+  ]
+}
